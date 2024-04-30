@@ -5,5 +5,6 @@ import './registerServiceWorker'
 import '@fortawesome/fontawesome-free/js/all';
 
 import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.min.js"
 
 createApp(App).mount('#app')
